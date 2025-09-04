@@ -12,7 +12,7 @@
  
  🔭 Jelenleg dolgozom **semmin**
  
- 🌱 Épp tanulom **Python,CSS,HTML,JS**
+ 🌱 Épp tanulom **Python,CSS,HTML,JS, MYSQL, C#**
 
 
  </div>
