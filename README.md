@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **nothing**
+ 🔭 Jelenleg dolgozom **semmin**
  
- 🌱 I’m currently learning **Python,CSS,HTML,JS**
+ 🌱 Épp tanulom **Python,CSS,HTML,JS**
 
 
  </div>
